@@ -10,4 +10,5 @@
  Upon the user commencing input, a function compares the input and API objects. As a result, "option" elements are dynamically generated, and elements that match are added inside.
 
  Upon clicking the input field, the application displays detailed information about the selected country.
+ ---
 [Demo](https://vildancetin.github.io/country-search/)
